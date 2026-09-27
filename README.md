@@ -13,4 +13,4 @@ Digital Marketing & E-Commerce Specialist based in Hyderabad, India. I have 6 ye
 
 Explore my experience and work: **[syed-qadri-tech.github.io](https://syed-qadri-tech.github.io/)**
 
-[LinkedIn](https://linkedin.com/in/syedmohdmubashir) · [Email](mailto:syedmohdmubashir@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/syed-mohd-mubashir-qadri) · [Email](mailto:syedmohdmubashir@gmail.com)
