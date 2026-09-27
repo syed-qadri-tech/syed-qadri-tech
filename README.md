@@ -1,16 +1,16 @@
-## Hi there 👋
+# Syed Mohd Mubashir Qadri
 
-<!--
-**syed-qadri-tech/syed-qadri-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Digital Marketing & E-Commerce Specialist based in Hyderabad, India. I have 6 years of experience in marketplace operations and digital marketing, and I'm open to opportunities in the UAE and Saudi Arabia.
 
-Here are some ideas to get you started:
+## What I work on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Amazon marketplaces:** Seller Central listings, variations, A+ Content, catalog and inventory workflows, pricing, account health and FBA operations.
+- **Performance marketing:** Amazon Ads, Google Ads and Meta Ads, with keyword and competitor research, campaign optimization and reporting.
+- **Storefronts and discovery:** Shopify and WordPress, SEO/SEM, product-image optimization and conversion-focused user experience.
+- **Operations and analysis:** Excel (pivots, lookups, sales and margin reports), Google Sheets and AI-assisted workflows, including automating Amazon bulk listing work.
+
+## Portfolio
+
+Explore my experience and work: **[syed-qadri-tech.github.io](https://syed-qadri-tech.github.io/)**
+
+[LinkedIn](https://linkedin.com/in/syedmohdmubashir) · [Email](mailto:syedmohdmubashir@gmail.com)
